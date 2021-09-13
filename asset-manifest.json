@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.0acb5589.chunk.css",
-    "main.js": "/developerFolio/static/js/main.28206d07.chunk.js",
-    "main.js.map": "/developerFolio/static/js/main.28206d07.chunk.js.map",
+    "main.js": "/developerFolio/static/js/main.b1c94a32.chunk.js",
+    "main.js.map": "/developerFolio/static/js/main.b1c94a32.chunk.js.map",
     "runtime-main.js": "/developerFolio/static/js/runtime-main.a2a60b86.js",
     "runtime-main.js.map": "/developerFolio/static/js/runtime-main.a2a60b86.js.map",
     "static/js/2.f2e35554.chunk.js": "/developerFolio/static/js/2.f2e35554.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.f2717f9a.chunk.js": "/developerFolio/static/js/4.f2717f9a.chunk.js",
     "static/js/4.f2717f9a.chunk.js.map": "/developerFolio/static/js/4.f2717f9a.chunk.js.map",
     "index.html": "/developerFolio/index.html",
-    "precache-manifest.c48d9037036c3a63a0e67f82a76833ee.js": "/developerFolio/precache-manifest.c48d9037036c3a63a0e67f82a76833ee.js",
+    "precache-manifest.fa19290d51b11eb37930f7a27a8f5b04.js": "/developerFolio/precache-manifest.fa19290d51b11eb37930f7a27a8f5b04.js",
     "service-worker.js": "/developerFolio/service-worker.js",
     "static/css/3.00373544.chunk.css.map": "/developerFolio/static/css/3.00373544.chunk.css.map",
     "static/css/4.3e7d09e6.chunk.css.map": "/developerFolio/static/css/4.3e7d09e6.chunk.css.map",
@@ -25,7 +25,7 @@
     "static/media/bni-logo.webp": "/developerFolio/static/media/bni-logo.dee18b77.webp",
     "static/media/codeInLogo.webp": "/developerFolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.51cf7192.svg",
-    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.59389695.svg",
+    "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.373fc033.svg",
     "static/media/diksha-logo.svg": "/developerFolio/static/media/diksha-logo.8aab9417.svg",
     "static/media/easysocial.png": "/developerFolio/static/media/easysocial.bbd20514.png",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.52be3144.svg",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.a2a60b86.js",
     "static/js/2.f2e35554.chunk.js",
     "static/css/main.0acb5589.chunk.css",
-    "static/js/main.28206d07.chunk.js"
+    "static/js/main.b1c94a32.chunk.js"
   ]
 }
